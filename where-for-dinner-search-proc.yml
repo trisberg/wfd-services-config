@@ -1,0 +1,18 @@
+where-for-dinner:
+
+  randomsearcher:
+    establishments:
+    - diningName: Longhorn Steakhouse
+      phoneNumber: (816) 448-6007
+      address: 51 E 14th St
+      locality: Kansas City
+      region: MO
+      postalCode: 64106
+      reservationURL: 'https://bristolseafoodgrill.com/KansasCity/Reservations'
+    - diningName: Outback Steakhouse
+      phoneNumber: (816) 994-8800  
+      address: 71 E 14th St
+      locality: Kansas City
+      region: MO
+      postalCode: 64106
+      reservationURL: 'https://801chophouse.com/reservations/'  

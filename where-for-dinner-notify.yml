@@ -1,0 +1,29 @@
+#where-for-dinner:
+#  notifications:
+#    email:
+#      enabled: true
+#      to: meyerg@vmware.com
+#      from: gmeyer2@kc.rr.com
+#      subject: 'You have new dining options available.'
+      
+#spring:
+#  mail:
+#    host: mail.twc.com
+#    port: 587
+#    username: gmeyer2@kc.rr.com
+#    password: '{cipher}91755863179e5cfaf975ac7112cb15ff44ab394f6f919cfba65d903479f4d63f'
+#    properties:
+#      mail:
+#        smtp:
+#          auth: true
+#          starttls:
+#            enable: true
+
+#  cloud:
+#    discovery:
+#      client:
+#        simple: 
+#          instances:
+#            service1: 
+#              - uri: http://service-1.com
+#              - uri: http://service-2.com
